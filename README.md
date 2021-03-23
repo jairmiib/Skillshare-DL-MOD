@@ -3,7 +3,7 @@ K-E-N-W-A-Y Skillshare-DL MOD para descargar localmente cursos de Skillshare.
 Todos los créditos para K-E-N-W-A-Y y el autor original del código.
 
 # Requisitos
-Usa el comando `pip -r install requirements.txt` para instalar los módulos de Python necesarios.
+Usa el comando `pip install -r requirements.txt` para instalar los módulos de Python necesarios.
 
 # Uso
 Usa el siguiente comando para descargar cualquier curso
